@@ -1,0 +1,74 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics (ID=0x152)
+    Vendor:   Intel
+    VRAM:     912 MB
+    Driver:   10.18.10.4276
+Begin MonoManager ReloadAssembly
+Platform assembly: G:\New folder (2)\mal30_mmp_2017\mal30_mmp_2017\mal30_mmp_2017_windows_version\mal30_mmp_desktop_version_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading G:\New folder (2)\mal30_mmp_2017\mal30_mmp_2017\mal30_mmp_2017_windows_version\mal30_mmp_desktop_version_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: G:\New folder (2)\mal30_mmp_2017\mal30_mmp_2017\mal30_mmp_2017_windows_version\mal30_mmp_desktop_version_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading G:\New folder (2)\mal30_mmp_2017\mal30_mmp_2017\mal30_mmp_2017_windows_version\mal30_mmp_desktop_version_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: G:\New folder (2)\mal30_mmp_2017\mal30_mmp_2017\mal30_mmp_2017_windows_version\mal30_mmp_desktop_version_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading G:\New folder (2)\mal30_mmp_2017\mal30_mmp_2017\mal30_mmp_2017_windows_version\mal30_mmp_desktop_version_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: G:\New folder (2)\mal30_mmp_2017\mal30_mmp_2017\mal30_mmp_2017_windows_version\mal30_mmp_desktop_version_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading G:\New folder (2)\mal30_mmp_2017\mal30_mmp_2017\mal30_mmp_2017_windows_version\mal30_mmp_desktop_version_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: G:\New folder (2)\mal30_mmp_2017\mal30_mmp_2017\mal30_mmp_2017_windows_version\mal30_mmp_desktop_version_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading G:\New folder (2)\mal30_mmp_2017\mal30_mmp_2017\mal30_mmp_2017_windows_version\mal30_mmp_desktop_version_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: G:\New folder (2)\mal30_mmp_2017\mal30_mmp_2017\mal30_mmp_2017_windows_version\mal30_mmp_desktop_version_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading G:\New folder (2)\mal30_mmp_2017\mal30_mmp_2017\mal30_mmp_2017_windows_version\mal30_mmp_desktop_version_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.323 seconds
+Platform assembly: G:\New folder (2)\mal30_mmp_2017\mal30_mmp_2017\mal30_mmp_2017_windows_version\mal30_mmp_desktop_version_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: G:\New folder (2)\mal30_mmp_2017\mal30_mmp_2017\mal30_mmp_2017_windows_version\mal30_mmp_desktop_version_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+desktop: 1680x1050 59Hz; virtual: 1680x1050 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 1.331427 ms
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.131518 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 292.
+Total: 0.299501 ms (FindLiveObjects: 0.023014 ms CreateObjectMapping: 0.013373 ms MarkObjects: 0.247562 ms  DeleteObjects: 0.014928 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.368233 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 304.
+Total: 0.303544 ms (FindLiveObjects: 0.031411 ms CreateObjectMapping: 0.021148 ms MarkObjects: 0.243208 ms  DeleteObjects: 0.007153 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.557016 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 562.
+Total: 0.786229 ms (FindLiveObjects: 0.058780 ms CreateObjectMapping: 0.033277 ms MarkObjects: 0.679553 ms  DeleteObjects: 0.013373 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.070802 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 316.
+Total: 0.344597 ms (FindLiveObjects: 0.033588 ms CreateObjectMapping: 0.020215 ms MarkObjects: 0.276797 ms  DeleteObjects: 0.013062 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.412086 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 802.
+Total: 0.726826 ms (FindLiveObjects: 0.064689 ms CreateObjectMapping: 0.022703 ms MarkObjects: 0.630414 ms  DeleteObjects: 0.008397 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.108745 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 316.
+Total: 0.265912 ms (FindLiveObjects: 0.025191 ms CreateObjectMapping: 0.013684 ms MarkObjects: 0.214595 ms  DeleteObjects: 0.011507 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.401511 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 315.
+Total: 0.285505 ms (FindLiveObjects: 0.031100 ms CreateObjectMapping: 0.020526 ms MarkObjects: 0.226414 ms  DeleteObjects: 0.006531 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1cfc -> priority: 1 
